@@ -1,4 +1,5 @@
-This git contains the relevant code used in my master's thesis titled Use of convolutional neural networks for identification of binary stars
+This git contains the relevant code used in my master's thesis titled Use of convolutional neural networks for identification of binary stars ([pdf, in Slovene](
+https://repozitorij.uni-lj.si/Dokument.php?id=179418&lang=slv)).
 
 - The folder models_saved contains some trained models that can run on new data without the need for training.
 - File models.py contains a quite a few different model architectures that can be called for training or running.
